@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 let todos = [];
@@ -36,3 +37,4 @@ async function addTodos() {
     }
 }
 addTodos();
+console.log("RAVI");
