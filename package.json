@@ -1,6 +1,6 @@
 {
-  "name": "cli-todo-5rkp-1",
-  "version": "2.0.2",
+  "name": "todo-list-5rkp-1",
+  "version": "2.0.3",
   "description": "a simple cli based to do list project",
   "main": "index.js",
   "type": "module",

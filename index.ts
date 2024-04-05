@@ -45,4 +45,3 @@ if (exit) {
   }
 }
 addTodos()
-console.log("RAVI")

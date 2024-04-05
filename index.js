@@ -37,4 +37,3 @@ async function addTodos() {
     }
 }
 addTodos();
-console.log("RAVI");
